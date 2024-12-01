@@ -1,35 +1,36 @@
 # list of my favourite movies 
 
 
-one flew over the cuckoos nest 
-american beauty
-into the wild 
-forrestgump
-shawshank redemption
-dead poets society
-eternal sunshine of the spotless mind 
-12 Angry men 
-the green mile 
-cast away
-catch me if you can 
-a beautiful mind
-the father 
-the social netowrk
-the truman show 
-interstellar 
+# Movie Recommendations
 
--- new additions , new branch : 
+## Classics
+- **One Flew Over the Cuckoo's Nest**
+- **American Beauty**
+- **Into the Wild**
+- **Forrest Gump**
+- **The Shawshank Redemption**
+- **Dead Poets Society**
+- **Eternal Sunshine of the Spotless Mind**
+- **12 Angry Men**
+- **The Green Mile**
+- **Cast Away**
+- **Catch Me If You Can**
+- **A Beautiful Mind**
+- **The Father**
+- **The Social Network**
+- **The Truman Show**
+- **Interstellar**
 
-wolf of the wall street 
+## New Additions (New Branch)
+- **The Wolf of Wall Street**
 
-indian : 
+## Indian Movies
+- **3 Idiots**
+- **PK**
 
-3 idiots
-pk
-
-worth watching :
-Almost Famous
-prisoners
-love simon
+## Worth Watching
+- **Almost Famous**
+- **Prisoners**
+- **Love, Simon**
 
 
